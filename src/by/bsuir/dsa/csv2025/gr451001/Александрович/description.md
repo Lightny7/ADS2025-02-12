@@ -1,10 +1,8 @@
 # Name
 
-Validate binaty search tree
+Validate binary search tree
 
 # Task
-
-Validate binary search tree
 
 Given binary tree, *determine if it is a valid binary search tree (BST)*.
 
@@ -26,7 +24,7 @@ Length n of an input, n tree nodes, which can be either *null*, or integer, wher
 
 # Theory
 
-Trees
+## Trees
 
 A tree is one of the most common data structures in programming.
 

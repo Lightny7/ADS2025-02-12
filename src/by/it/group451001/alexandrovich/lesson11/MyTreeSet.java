@@ -1,8 +1,6 @@
 package by.it.group451001.alexandrovich.lesson11;
 
-import java.io.ObjectStreamException;
 import java.util.*;
-import java.util.concurrent.ConcurrentMap;
 
 public class MyTreeSet<E> implements Set<E> {
 
